@@ -1,0 +1,7 @@
+!! ilpost
+! Hide massived empty banner at the top of the page
+www.ilpost.it###maxticker
+
+!! Reddit
+! Advertise button top bar
+www.reddit.com##[aria-label="Advertise"]

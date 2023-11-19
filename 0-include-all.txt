@@ -1,0 +1,8 @@
+! Title: sirlisko's uBlock filters
+! Description: Filters for uBlock, to remove distractions in multiple websites.
+! Homepage: https://github.com/sirlisko/ublock-origin-filters
+! License: https://github.com/sirlisko/ublock-origin-filters/blob/main/LICENSE
+
+!#include google-account-popup.txt
+!#include linkedin.txt
+!#include various.txt
