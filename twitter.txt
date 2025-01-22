@@ -3,6 +3,6 @@ x.com##[aria-label="Premium"]
 x.com##[aria-label="Subscribe to Premium"]
 
 ! Hide useless navigation links
-x.com##[aria-label="Grok"]
+x.com##[aria-label="Business"]
 x.com##[aria-label="Jobs"]
 x.com##[aria-label="Verified Orgs"]
