@@ -26,6 +26,10 @@ Disable annoying Google popup that plagues many websites.
 
 Removed all the business and premium references.
 
+### Myself
+
+Personal Tracking Prevention Rules
+
 ### Various
 
 Various small hiding around the web.

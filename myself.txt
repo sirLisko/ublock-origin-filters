@@ -1,0 +1,8 @@
+!! myselft
+! do not track me
+||stats.sirlisko.com/api/send^
+||sirlisko.com/api/event^
+
+!! Reddit
+! Advertise button top bar
+www.reddit.com##[aria-label="Advertise"]
