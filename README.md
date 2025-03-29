@@ -26,10 +26,6 @@ Disable annoying Google popup that plagues many websites.
 
 Removed all the business and premium references.
 
-### Twitter / x
-
-Removed useless links and premium references.
-
 ### Various
 
 Various small hiding around the web.
